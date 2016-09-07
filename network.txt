@@ -1,0 +1,111 @@
+
+
+
+~~~~~ SPOILER ALERT IN THIS FILE ~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Internet PI: B8:27:EB:7F:58:79 IP 172.19.233.254
+Serves DNS. Also serves some HTTP:
+	Domain name		Alias		Summary
+
+House 1 PI: B8:27:EB:01:EC:8C: "WAN" IP: 192.168.10.32
+House 2 PI: B8:27:EB:B9:83:A6: "WAN" IP: 192.168.11.44
+House 3 PI: B8:27:EB:A4:2A:65: "WAN" IP: 192.168.12.85
+
+Router 1: MAC: D8BAA8 172.19.233.??? -> 192.168.10.254
+Router 2: MAC: D88FE6 172.19.233.??? -> 192.168.11.254
+Router 3: MAC: D88E56 172.19.233.??? -> 192.168.12.254
